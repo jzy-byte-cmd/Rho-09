@@ -12,7 +12,7 @@ global def_reply_num#每个人的自定义回复的第几个
 
 
 replied=['none']
-Banned_Friends=[]
+Banned_Friends=['none']
 def_reply={}
 def_reply_num={}
 
